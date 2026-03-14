@@ -28,5 +28,7 @@ yarn-error.log*
 *.swo
 
 # Project specific
-push_to_github.sh
-push_to_gitlab.sh
+.env.push
+# push_to_github.sh (No longer ignored)
+# push_to_gitlab.sh (No longer ignored)
+
